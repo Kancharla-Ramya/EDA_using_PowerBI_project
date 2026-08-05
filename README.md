@@ -35,3 +35,11 @@ The analysis is expected to show that a small set of product categories and coun
 Conclusion:
 This study highlights how a well-modeled Power BI dashboard can turn raw app, transaction, and campaign data into decision-ready insight for an e-commerce business. By combining clean data modeling, DAX-driven KPIs, and interactive, AI-assisted visualizations, ShopTrail's stakeholders can identify what drives revenue and engagement, and where to focus marketing and product investment going forward.
 
+
+
+
+## Power BI (.pbix) File
+The Power BI file is larger than GitHub's file size limit.
+
+Download it here:
+[https://drive.google.com/your-link](https://drive.google.com/file/d/1pQmJn0SkTGlTl6qXCP5ZFD_aphMpNRMY/view?usp=sharing)
